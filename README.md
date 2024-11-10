@@ -1,2 +1,2 @@
 # cat_project_madhacks_2024
-./fuelLevel.png
+<img width="905" alt="sample_output" src="fuelLevel.png">
